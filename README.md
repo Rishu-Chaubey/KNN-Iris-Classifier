@@ -39,7 +39,7 @@ This separation keeps training and inference clean and maintainable.
 
 1) Clone
 ```bash
-git clone https://github.com/your-username/knn-iris-classifier.git
+git clone https://github.com/Rishu-Chaubey/knn-iris-classifier.git
 cd knn-iris-classifier
 ```
 
